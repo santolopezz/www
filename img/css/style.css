@@ -37,5 +37,8 @@ background:radial-gradient(#f2761e, #ef4921) ;
     transform: translate(-50%, -50%);
     width: 45px;
     height: 45px;
+border-radius: 50;
+background: #000;
+border: 10px solid #2196f3;
 
 }
